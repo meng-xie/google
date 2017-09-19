@@ -1,0 +1,20 @@
+.nav {
+  background-color:red;
+   margin:auto;
+   padding:inherit;
+}
+
+.nav li{
+  display:run-in;
+   padding:inherit;
+}
+.divclass{
+  width: 50%;
+   float: left;
+
+}
+.divclass p {
+  background-color: grey;
+  border: 5px solid black;
+  padding: 25px;
+}
